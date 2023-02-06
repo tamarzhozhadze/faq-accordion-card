@@ -12,6 +12,7 @@ body{
     align-items: center;
     flex-direction: column;
     height: 100vh;
+    overflow-y: hidden;
 }
 .woman-desktop-img{
     display:none;
